@@ -1,3 +1,3 @@
 # DevMedia
-Repository created for the purpose of creating DevMedia projects (programming studies platform):
+Repository for DevMedia projects (online programming study platform):
 🚩 https://www.devmedia.com.br/
