@@ -1,6 +1,6 @@
 # :wavy_dash::wavy_dash::wavy_dash: DevMedia :wavy_dash::wavy_dash::wavy_dash:
 Repositório para a trilha de estudos e projetos do **DevMedia** (plataforma online de estudos de programação):
-:earth_americas: https://www.devmedia.com.br/
+- :earth_americas: https://www.devmedia.com.br/
 
 ## PLANO DE ESTUDO CARREIRA PROGRAMADOR FRONT-END
 1. Módulo I - HTML e CSS
