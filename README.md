@@ -21,8 +21,8 @@ Repositório para a trilha de estudos e projetos do **DevMedia** (plataforma onl
 - [ ] 13ª Missão: Conhecendo o React
 - [ ] 14ª Missão: Aprenda a criar sua primeira aplicação React 
 - [ ] 15ª Missão: Aprenda a construir SPAs em React 
-- [ ] :dart: Certificado - Componentes
-- [ ] :dart: Certificado - State Hook e evento onClick
-- [ ] :dart: Certificado -  Rotas
-- [ ] :dart: Certificado - Props
-- [ ] :dart: Certificado - Deploy
+- [ ] :trophy: **Certificado** :dart: *Componentes*
+- [ ] :trophy: **Certificado** :dart: *State Hook e evento onClick*
+- [ ] :trophy: **Certificado** :dart: *Rotas*
+- [ ] :trophy: **Certificado** :dart: *Props*
+- [ ] :trophy: **Certificado** :dart: *Deploy*
