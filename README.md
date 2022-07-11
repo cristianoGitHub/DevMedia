@@ -4,7 +4,7 @@ Repositório para a trilha de estudos e projetos do **DevMedia** (plataforma onl
 
 ## PLANO DE ESTUDO CARREIRA PROGRAMADOR FRONT-END
 1. Módulo I - HTML e CSS
-- [X] 1ª Missão: Conhecendo a carreira Front-End 
+- [X] 1ª Missão: Conhecendo a carreira Front-End [Certificado](https://www.devmedia.com.br/certificado/tecnologia/programacao/cristiano-roberto-sousa-soares)
 - [X] 2ª Missão: Aprenda a construir seu primeiro documento HTML
 - [X] 3ª Missão: Aprenda a construir sua primeira página web estilizada
 - [X] 4ª Missão: Avance na construção de páginas web estilizadas
