@@ -2,7 +2,7 @@
 Repositório para a trilha de estudos e projetos do **DevMedia** (plataforma online de estudos de programação):
 - :earth_americas: https://www.devmedia.com.br/
 
-## PLANO DE ESTUDO: CARREIRA PROGRAMADOR FRONT-END
+## PLANO DE ESTUDO: CARREIRA DE DESENVOLVEDOR FRONT-END
 1. Módulo I - HTML e CSS
 - [X] 1ª Missão: Conhecendo a carreira Front-End 
 - :scroll: [Certificado Autenticado](https://www.devmedia.com.br/certificado/tecnologia/programacao/cristiano-roberto-sousa-soares) :heavy_check_mark: 
